@@ -7,6 +7,9 @@ function Appleslide() {
   return (
     <div>
       <h1>Appleslide</h1>
+      <h2>
+        <Hello></Hello>
+      </h2>
     </div>
   );
 }
