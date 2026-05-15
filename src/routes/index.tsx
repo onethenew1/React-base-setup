@@ -84,8 +84,7 @@ const modules = [
       "Apply all concepts in a comprehensive project that simulates real-world development.",
     to: "/master",
     icon: Gauge,
-    accent:
-      "border-purple-200 bg-purple-50 hover:border-purple-300 hover:bg-purple-100",
+    accent: "border-red-200 bg-red-50 hover:border-red-300 hover:bg-red-100",
     badge: "Capstone",
     extends: true,
   },
@@ -96,9 +95,9 @@ function Home() {
     <div className="p-8">
       <h1 className="text-3xl font-bold md:text-4xl">React MasterClass</h1>
       <p className="mt-2 text-sm text-gray-500">
-        A practical learning experience from Akash, aka Your Next Tech Partner (
+        A practical learning experience from me, aka onethenew (
         <a
-          href="https://yntp.me"
+          href="https://react-base-setup.vercel.app/"
           target="_blank"
           rel="noopener noreferrer"
           className="underline"
