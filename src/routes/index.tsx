@@ -102,7 +102,7 @@ function Home() {
           rel="noopener noreferrer"
           className="underline"
         >
-          yntp.me
+          me
         </a>
         ), crafted for the ChaiCode Web Dev Cohort 2026.
       </p>
